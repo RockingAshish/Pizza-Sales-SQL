@@ -266,8 +266,8 @@ Pizza-Sales-SQL/
 
 **Ashish Sharma**
 Aspiring Data Analyst | SQL Project #3
-📧 youremail@example.com
-🔗 [LinkedIn Profile](https://linkedin.com)
+📧 itsashishsharma1814@gmail.com
+🔗 [LinkedIn Profile](www.linkedin.com/in/ashish-sharma-0146481b6)
 🐙 [GitHub Profile](https://github.com/RockingAshish)
 
 ---
